@@ -1,0 +1,12 @@
+/Users/eberDavid/Documents/netCoreProjects/Mobile/Emergencias/Emergencias/bin/Debug/netstandard2.0/Emergencias.deps.json
+/Users/eberDavid/Documents/netCoreProjects/Mobile/Emergencias/Emergencias/bin/Debug/netstandard2.0/Emergencias.dll
+/Users/eberDavid/Documents/netCoreProjects/Mobile/Emergencias/Emergencias/bin/Debug/netstandard2.0/Emergencias.pdb
+/Users/eberDavid/Documents/netCoreProjects/Mobile/Emergencias/Emergencias/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/eberDavid/Documents/netCoreProjects/Mobile/Emergencias/Emergencias/obj/Debug/netstandard2.0/Login.xaml.g.cs
+/Users/eberDavid/Documents/netCoreProjects/Mobile/Emergencias/Emergencias/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/eberDavid/Documents/netCoreProjects/Mobile/Emergencias/Emergencias/obj/Debug/netstandard2.0/Emergencias.csproj.CoreCompileInputs.cache
+/Users/eberDavid/Documents/netCoreProjects/Mobile/Emergencias/Emergencias/obj/Debug/netstandard2.0/Emergencias.AssemblyInfoInputs.cache
+/Users/eberDavid/Documents/netCoreProjects/Mobile/Emergencias/Emergencias/obj/Debug/netstandard2.0/Emergencias.AssemblyInfo.cs
+/Users/eberDavid/Documents/netCoreProjects/Mobile/Emergencias/Emergencias/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/eberDavid/Documents/netCoreProjects/Mobile/Emergencias/Emergencias/obj/Debug/netstandard2.0/Emergencias.dll
+/Users/eberDavid/Documents/netCoreProjects/Mobile/Emergencias/Emergencias/obj/Debug/netstandard2.0/Emergencias.pdb

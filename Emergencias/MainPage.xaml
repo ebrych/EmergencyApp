@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Emergencias" x:Class="Emergencias.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <StackLayout>
+            <Button Text="Login" Clicked="Handle_Clicked" BackgroundColor="Blue" TextColor="White" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>
+<!-- https://www.youtube.com/watch?v=wE-_Zp17SRQ -->
